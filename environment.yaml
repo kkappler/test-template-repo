@@ -1,4 +1,4 @@
-name: template
+name: test-template-repo
 channels:
   - anaconda
   - conda-forge

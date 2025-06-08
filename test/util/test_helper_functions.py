@@ -6,7 +6,7 @@
 
 import unittest
 
-from template.util.helper_functions import execute_subprocess
+from test-template-repo.util.helper_functions import execute_subprocess
 
 
 class TestUtils(unittest.TestCase):
