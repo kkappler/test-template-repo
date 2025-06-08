@@ -1,4 +1,4 @@
-name: template
+name: newreponame
 channels:
   - anaconda
   - conda-forge
